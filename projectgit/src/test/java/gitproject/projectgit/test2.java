@@ -14,6 +14,9 @@ public void login () {
   public void register () {
   	  
   	  System.out.println("this is register test method");
+  	  System.out.println("this new test");
   	 
     }
+  
+  
 }
